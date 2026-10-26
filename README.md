@@ -2,3 +2,5 @@
 
 Alguma coisa está escrita aqui
 Corinthians
+Luladroid
+PingasReactor
